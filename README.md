@@ -1,0 +1,2 @@
+# tri_learn_source
+myUpgradingRoadOfJsAndLinux
